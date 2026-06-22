@@ -133,4 +133,4 @@ Associate Software Engineer | BCA Graduate
 ### Connect With Me
 
 - GitHub: https://github.com/subhzzzz
-- LinkedIn: https://www.linkedin.com/in/subhash-murugesan
+- LinkedIn: https://www.linkedin.com/in/subhzzz
